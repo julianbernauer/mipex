@@ -6,3 +6,5 @@ Studies explaining immigrant integration policies commonly focus on single aspec
 
 # DeFacto
 A more journalistic report of the results of the study (in German) can be found on the DeFacto website: http://www.defacto.expert/2016/02/23/rechtspopulismus-und-integrationspolitik/
+
+# Online Appendix 
